@@ -1,0 +1,11 @@
+@media screen and (max-width : 600px) {
+
+	table.responsive-table {
+		width: 100% !important;
+	}
+
+	div.responsive-image {
+		max-width: 100% !important;
+		height: auto !important;
+	}
+}
